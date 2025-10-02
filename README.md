@@ -69,7 +69,7 @@ __Para hacer una tabla__ |-----------| Esto lo utilizaremos para darle el ancho 
 
 
 | Jugador | Equipo | Nombre |
-|-----------|-----------|-----------|
+|-----------:|:-----------:|:-----------|
 | 10 | Barça | Messi |
 | 8 | Barça |Pedri|
 | 1 | Barça | Joan |
